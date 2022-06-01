@@ -87,9 +87,9 @@ br>
     <img src="https://github.com/SankajRam/SankajRam/blob/9a072f2981e3d922a584582b559f34cc645aebec/Images/logo/azure%20devops.png"
       alt="azure devops" width="50" height="50" /> </a> 
   </p>
-  <p align="left">
   
-    <a href="https://portal.azure.com" target="_blank" rel="noreferrer"> 
+  <p align="left">
+  <a href="https://portal.azure.com" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/SankajRam/SankajRam/blob/2e125575a2fea97ffc069913b88bffe896a63792/Images/logo/download.png"
       alt="Azure" width="50" height="50" /> </a>
   
