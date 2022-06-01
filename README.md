@@ -74,8 +74,8 @@ br>
   
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/SankajRam/SankajRam/blob/0881056307258fe9bb866cad60ca1c6387b75777/Images/logo/aws-logo.png"
-      alt="AWS" width="50" height="50" /> </a> 
-  
+      alt="AWS" width="70" height="70" /> </a> 
+ <!-- 
   <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -112,5 +112,6 @@ br>
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
+-->
 
 <br>
