@@ -104,11 +104,11 @@ br>
     <img src="https://github.com/SankajRam/SankajRam/blob/f11d339b3327efa078ca72eb04bd78ca8cfb029c/Images/logo/Powershell-335x150.png"
       alt="Powershell" width="50" height="50" /> </a> 
   
-    <a href="https://github.com" target="_blank" rel="noreferrer">
+  <a href="https://github.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/SankajRam/SankajRam/blob/077ca7c3e46bd34aa4157f0e0711a01e7a64ece6/Images/logo/Git-Logo.jpg"
-      alt="GitHub" width="50" height="50" /> </a> 
+      alt="github" width="50" height="50" /> </a> 
   
-    <a href="https://yaml.org" target="_blank" rel="noreferrer">
+   <a href="https://yaml.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/SankajRam/SankajRam/blob/22355b684bddc6519651aefd2b2d73e6576da1b1/Images/logo/yaml.png"
       alt="yaml" width="50" height="50" /> </a> 
  
