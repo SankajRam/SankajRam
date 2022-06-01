@@ -78,6 +78,14 @@ br>
   <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/SankajRam/SankajRam/blob/f28464f89139192543dd9c80755a16c56f10edcc/Images/logo/SP_RHEL1_3x.png"
       alt="AWS" width="50" height="50" /> </a> 
+  
+  <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
+    <img src="https://github.com/SankajRam/SankajRam/blob/9a072f2981e3d922a584582b559f34cc645aebec/Images/logo/Terraform.png"
+      alt="terrafomr" width="50" height="50" /> </a> 
+  
+    <a href="https://dev.azure.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/SankajRam/SankajRam/blob/9a072f2981e3d922a584582b559f34cc645aebec/Images/logo/azure%20devops.png"
+      alt="Azure DevOps" width="50" height="50" /> </a> 
  <!-- 
   <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
