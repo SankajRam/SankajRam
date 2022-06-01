@@ -74,7 +74,7 @@ br>
   
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/SankajRam/SankajRam/blob/0881056307258fe9bb866cad60ca1c6387b75777/Images/logo/aws-logo.png"
-      alt="AWS" width="70" height="70" /> </a> 
+      alt="AWS" width="50" height="50" /> </a> 
  <!-- 
   <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
