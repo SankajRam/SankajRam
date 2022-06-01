@@ -75,9 +75,6 @@ br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/SankajRam/SankajRam/blob/0881056307258fe9bb866cad60ca1c6387b75777/Images/logo/aws-logo.png"
       alt="AWS" width="50" height="50" /> </a> 
-  <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/SankajRam/SankajRam/blob/f28464f89139192543dd9c80755a16c56f10edcc/Images/logo/SP_RHEL1_3x.png"
-      alt="AWS" width="50" height="50" /> </a> 
   
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
     <img src="https://github.com/SankajRam/SankajRam/blob/9a072f2981e3d922a584582b559f34cc645aebec/Images/logo/Terraform.png"
@@ -86,26 +83,25 @@ br>
   <a href="https://www.dev.azure.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/SankajRam/SankajRam/blob/9a072f2981e3d922a584582b559f34cc645aebec/Images/logo/azure%20devops.png"
       alt="azure devops" width="50" height="50" /> </a> 
+  
+   <a href="https://https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://github.com/SankajRam/SankajRam/blob/f11d339b3327efa078ca72eb04bd78ca8cfb029c/Images/logo/jenkins.png"
+      alt="Jenkins" width="50" height="50" /> </a> 
+  
   </p>
   
   <p align="left">
-  <a href="https://portal.azure.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/SankajRam/SankajRam/blob/2e125575a2fea97ffc069913b88bffe896a63792/Images/logo/download.png"
-      alt="Azure" width="50" height="50" /> </a>
-  
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/SankajRam/SankajRam/blob/0881056307258fe9bb866cad60ca1c6387b75777/Images/logo/aws-logo.png"
-      alt="AWS" width="50" height="50" /> </a> 
-  <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
+   <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/SankajRam/SankajRam/blob/f28464f89139192543dd9c80755a16c56f10edcc/Images/logo/SP_RHEL1_3x.png"
-      alt="AWS" width="50" height="50" /> </a> 
+      alt="Linux" width="50" height="50" /> </a> 
   
-  <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
-    <img src="https://github.com/SankajRam/SankajRam/blob/9a072f2981e3d922a584582b559f34cc645aebec/Images/logo/Terraform.png"
-      alt="terraform" width="50" height="50" /> </a> 
+   <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/SankajRam/SankajRam/blob/f11d339b3327efa078ca72eb04bd78ca8cfb029c/Images/logo/window%20server.png"
+      alt="Windows" width="50" height="50" /> </a> 
   
-  <a href="https://www.dev.azure.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/SankajRam/SankajRam/blob/9a072f2981e3d922a584582b559f34cc645aebec/Images/logo/azure%20devops.png"
-      alt="azure devops" width="50" height="50" /> </a> 
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/SankajRam/SankajRam/blob/f11d339b3327efa078ca72eb04bd78ca8cfb029c/Images/logo/Powershell-335x150.png"
+      alt="Powershell" width="50" height="50" /> </a> 
+ 
   </p>
 <br>
